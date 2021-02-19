@@ -1,0 +1,92 @@
+body {
+    font-size: 25px;
+    margin: 0;
+}
+
+header {
+    color: whitesmoke;
+    text-align: center;
+    background-color: #336699;
+    width: 100%;
+    height: 400px;
+  }
+
+  h1 {
+      padding: 70px;
+      font-size: 35px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  h2 {
+      text-align: center;
+      padding: 22px;
+      font-size: 38px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .topnav {
+      margin-top: 30px;
+      margin-bottom: 30px;
+      text-align: center;
+      padding: 20px 20px;
+  }
+
+  a {
+      padding: 20px;
+      color: black;
+      font-size: 20px;
+      text-decoration: none;
+  }
+
+  a:hover {
+      font-size: 25px;
+  }
+
+ h3 {
+      font-size: 30px;
+      text-align: center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      padding-top: 25px;
+      margin-left: 20px;
+  }
+
+  .intro {
+      display: flex;
+  }
+
+  .column {
+      font-weight: bold;
+      font-size: 30px;
+      text-decoration: solid;
+      color: black;
+      border: solid 15px;
+      width: 350px;
+      text-align: center;
+      margin: 0 auto;
+  }
+
+  main {
+      background-color: white;
+      padding: 200px;
+  }
+
+footer {
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #8FC8DC;
+}
+
+.social {
+    display: flex;
+}
+
+.contact {
+    text-decoration: solid;
+    margin-left: 520px;
+}
+
+.cr {
+    margin-top: 5px;
+    font-size: 12px;
+    text-align: center;
+}
